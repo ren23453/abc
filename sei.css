@@ -14,6 +14,10 @@ body{
     height: 5000px;
 }
 
+div{
+    margin-left: 40px;
+}
+
 h1{
     color:white;
     background-color: #ff9933;
@@ -26,9 +30,19 @@ h3{
 }
 
 .abc{
-    background-color:  #e2eba3;
+    /*background-color:  #e2eba3;*/
+    background: linear-gradient(transparent 30%, #a7eb81 0%);
+    width: 135px;
+    margin-left: 30px;
 }
 
 .efg{
-    background-color: #ff6c94;
+    /*background-color: #ff6c94;*/
+    background: linear-gradient(transparent 30%, #ffadc3 0%);
+    width: 58px;
+    margin-left: 30px;
+}
+
+iframe{
+    margin-left: 40px;
 }
